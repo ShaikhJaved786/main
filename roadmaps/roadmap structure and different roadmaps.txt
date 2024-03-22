@@ -1,0 +1,43 @@
+
+Roadmap structure
+------------------
+
+1. Programming Language
+
+2. DSA 
+
+3. CS Fundamentals 
+
+4. Stream - (Data Engineer, Data Science, Web Development, DevOps etc), (onprem + cloud)
+
+5. System Design
+
+
+
+Data Engineer Roadmap
+----------------------
+
+1. Programming Language 
+
+- Python, SQL
+
+2. DSA 
+
+- Easy to Medium questions
+
+3. CS Fundamentals 
+
+- DBMS, OS, CN
+
+4. Data Engineering 
+
+- HDFS, MapReduce (Theory), PySpark, YARN (Theory), Databricks, Hive, Snowflake, MongoDB, HBase, Sqoop, Kafka, Airflow, Tableau, dbt, AWS/Azure
+- Numpy, Pandas, ML
+- FastAPI
+- Docker, Kubernetes
+
+5. System Design
+
+- Data Modelling, Data Warehousing, Different Architectures
+
+
