@@ -29,25 +29,32 @@ Data Engineer Roadmap
 
 - DBMS, OS, CN
 
-4. Data Engineering 
+4. Data engineering along with cloud
 
 - 
 HDFS
 MapReduce (Theory)
 YARN (Theory)
 
+Sqoop
+
+Hive, Snowflake
+
+HBase, MongoDB
+
 PySpark (Batch, Streaming), Flink, Beam
 Databricks
 
-Sqoop
-Hive, Snowflake
-HBase, MongoDB
 Kafka
-Airflow
-dbt
-Tableau
 
+Airflow
+
+dbt
+
+Tableau
+-
 AWS/Azure
+-
 
 - Numpy, Pandas, ML
 - FastAPI
